@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stickman Agent</string>
+    <string name="accessibility_desc">Stickman Agent assists you by interacting with the screen to automate tasks.</string>
+</resources>
